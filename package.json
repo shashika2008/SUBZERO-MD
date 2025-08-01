@@ -1,12 +1,13 @@
 {
-  "name": "SUBZERO-MD",
+  "name": "ᗷᒪᗩᑕK ᗯOᒪᖴ",
   "version": "4.2.0",
-  "description": "THE BEST BOT IN THE UNIVERSE",
+  "description": "╚══ ≪ 🤖 Black Wolf Bot ≫ ══╝ Always online. Always ready. Does the job. 🐺"
+  ",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name SUBZERO-MD",
-    "stop": "pm2 stop SUBZERO-MD",
-    "restart": "pm2 restart SUBZERO-MD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name black wolf",
+    "stop": "pm2 stop black Wolf",
+    "restart": "pm2 restart black wolf"
   },
   "dependencies": {
    "@whiskeysockets/baileys": "github:EdderBot02/bail",
